@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Tasks</string>
+    <string name="today">Today\'s Tasks</string>
+    <string name="no_tasks_for_today">No Tasks for today!</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="task_detail">Task Detail</string>
+    <string name="resolve">Resolve</string>
+    <string name="can_t_resolve">Can\'t Resolve</string>
+
+</resources>
